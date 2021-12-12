@@ -6,7 +6,7 @@ metadata:
     kubernetes.io/ingress.class: traefik
 spec:
   rules:
-  - host: hello.4178fd5d-79c0-4130-9dad-b50ec4c0ec66.k8s.civo.com
+  - host: hello.89c360e5-5b6d-49b3-b43d-33c5a9f94213.k8s.civo.com
     http:
       paths:
       - path: /
